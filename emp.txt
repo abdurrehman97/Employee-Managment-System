@@ -1,0 +1,4 @@
+makhna	abc	admin	1	Zakir	30	MULTAN	Editor	IT	34000
+makhna	123	admin	2	Bajwa	24	Township	Developer	IT	78000
+makhna	123456	admin	3	Mushtaq	45	Faislabad	Manager	IT	69000
+makhna	098765	emp	4	Iqbal	34	Gulberg	Supervisor	IT	78000
