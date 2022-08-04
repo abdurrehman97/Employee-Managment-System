@@ -121,13 +121,9 @@ public:
 				cout << "\n\n\n Employee Department:"<<emp_department ;
 				cout << "\n\n\n Employee Salary:"<<emp_salary ;	
 			}
-			else{
-			cout<<"\n\n\n Employee Not Found...";
-		}
-			//	file >> emp_id >> emp_name >> emp_post >> emp_department >> emp_salary;
-			//	cout << endl << emp_id << " " << emp_name <<" "<< emp_post << " "<< emp_department <<" "<< emp_salary;
-		}
-		file.close();	
+			file >> roll >> emp_id >> emp_name >> emp_post >> emp_department >> emp_salary;
+		 }
+		file.close();		
 	}
 	
 	void modify(){
